@@ -1,8 +1,8 @@
-module monkeo::market_event {
+module hero::market_event {
     use sui::object::ID;
     use sui::event;
 
-    friend monkeo::market;
+    friend hero::market;
 
     struct MarketCreatedEvent has copy, drop {
         market_id: ID,
