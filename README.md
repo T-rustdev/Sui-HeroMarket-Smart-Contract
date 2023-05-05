@@ -1,10 +1,12 @@
-# NFT trading marketplace
+# Heros NFT AMM on Sui
 
-The NFT Trading Smart Contract in SUI Protocol allows for seamless and secure trading of non-fungible tokens (NFTs) between users. NFTs represent unique digital assets that can include anything from artwork to virtual real estate. The popularity of NFTs has risen dramatically in recent years, with some fetching millions of dollars at auction.
+The First NFT AMM Smart Contract on SUI Blockchain.
+This allows for users to trade non-fungible tokens (NFTs) to each other.
+Everything on Sui is still on early stage, and we are in front of Sui pioneers.
 
-The NFT Trading Smart Contract in SUI Protocol operates using a set of predefined rules that ensure fairness and transparency in the trading process. Users can place buy or sell orders for their NFTs, which are then executed automatically when the conditions of the order are met. This eliminates the need for intermediaries such as brokers or auction houses, reducing transaction costs and increasing efficiency.
+This NFT AMM Smart Contract is still on demo version and consist of several TODO parts.
 
-The smart contract also ensures that ownership of the NFT is transferred securely and instantly to the buyer upon completion of the trade. This removes the risk of fraud or disputes that can arise in traditional NFT marketplaces.
+The smart contract has minimum features for Trading, like `list` / `transfer` / `buy` / `sell` and so on.
+But planning to implement `Auctions` & `Raffles` feature which is very popular in traditional NFT marketplaces.
 
-Overall, the NFT Trading Smart Contract in SUI Protocol provides a robust and reliable platform for buying and selling NFTs. Its automated processes and secure transactions make it an attractive option for both buyers and sellers looking to participate in the rapidly growing NFT market.
-
+Would be appreciated if many folks drop advises and proposals.
